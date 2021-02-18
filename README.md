@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="⭐" src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gifg" align="top" height="18">
+
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=martinmunillas&layout=compact&card_width=275" alt="cheesits456's Top Languages" align="right" width="330">
+
