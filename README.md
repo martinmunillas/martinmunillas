@@ -2,7 +2,7 @@
 
 I'm Martin Munilla, a fullstack software engineer from chile!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinmunillas&layout=compact&hide=vue,scss,css,html,batchfile,dockerfile&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=1000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinmunillas&layout=compact&hide=scss,css,html,batchfile,dockerfile&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=1000" />
 
 ## See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 https://martinmunilla.com/
