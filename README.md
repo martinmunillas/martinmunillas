@@ -16,3 +16,16 @@ https://martinmunilla.com/
 <a href="https://github.com/quaantum/Quaantum-Components" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaantum&repo=quaantum-components&theme=dark" alt="quaantum components" />
 </a>
+
+
+### MUNI projects
+Clones and existing technologies implemented by me to learn and practice "new" technologies.
+
+- [Munichain](https://github.com/martinmunillas/munichain) - My own Blockchain (Golang)
+- [MuniCoin](https://github.com/martinmunillas/Municoin) - My own Cryptocurrency with its own exchange (Solidity, Typescript, React)
+- [MuniOS](https://github.com/martinmunillas/MuniOS) - My own OS (C++, Assembly)
+- [Munigram](https://github.com/martinmunillas/Munigram) - My Instagram Clone (Python, Django)
+- [Munieddit](https://github.com/martinmunillas/munieddit) - My Reddit Clone (Typescript, Graphql, Vue)
+- [Muniflix](https://github.com/martinmunillas/Muniflix) - My Netflix Clone (Typescript, React, Redux)
+- [Munitter]([Muniflix](https://github.com/martinmunillas/Munitter) - My Twitter Clone (Elixir, Phoenix)
+- [MuniflixIOS](https://github.com/martinmunillas/MuniflixIOS) - IOS version of [Muniflix](https://github.com/martinmunillas/Muniflix) (Swift, SwiftUI)
