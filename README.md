@@ -27,5 +27,5 @@ Clones and existing technologies implemented by me to learn and practice "new" t
 - [Munigram](https://github.com/martinmunillas/Munigram) - My Instagram Clone (Python, Django)
 - [Munieddit](https://github.com/martinmunillas/munieddit) - My Reddit Clone (Typescript, Graphql, Vue)
 - [Muniflix](https://github.com/martinmunillas/Muniflix) - My Netflix Clone (Typescript, React, Redux)
-- [Munitter]([Muniflix](https://github.com/martinmunillas/Munitter) - My Twitter Clone (Elixir, Phoenix)
+- [Munitter](https://github.com/martinmunillas/Munitter) - My Twitter Clone (Elixir, Phoenix)
 - [MuniflixIOS](https://github.com/martinmunillas/MuniflixIOS) - IOS version of [Muniflix](https://github.com/martinmunillas/Muniflix) (Swift, SwiftUI)
