@@ -4,21 +4,13 @@ I'm Martin Munilla, a fullstack software engineer from chile!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinmunillas&layout=compact&hide=scss,css,html,batchfile,dockerfile&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&langs_count=1000" />
 
-## See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
-https://martinmunilla.com/
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/martinmunilla/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## Searching for a react components library?
-<a href="https://github.com/quaantum/Quaantum-Components" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaantum&repo=quaantum-components&theme=dark" alt="quaantum components" />
-</a>
-
-
-### MUNI projects
+### MUNI projects <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 Clones and existing technologies implemented by me to learn and practice "new" technologies.
 
 - [Munichain](https://github.com/martinmunillas/munichain) - My own Blockchain (Golang)
@@ -29,3 +21,6 @@ Clones and existing technologies implemented by me to learn and practice "new" t
 - [Muniflix](https://github.com/martinmunillas/Muniflix) - My Netflix Clone (Typescript, React, Redux)
 - [Munitter](https://github.com/martinmunillas/Munitter) - My Twitter Clone (Elixir, Phoenix)
 - [MuniflixIOS](https://github.com/martinmunillas/MuniflixIOS) - IOS version of [Muniflix](https://github.com/martinmunillas/Muniflix) (Swift, SwiftUI)
+<a href="https://github.com/quaantum/Quaantum-Components" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaantum&repo=quaantum-components&theme=dark" alt="quaantum components" />
+</a>
