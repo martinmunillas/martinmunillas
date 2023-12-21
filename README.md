@@ -21,6 +21,8 @@ Clones and existing technologies implemented by me to learn and practice "new" t
 - [Muniflix](https://github.com/martinmunillas/Muniflix) - My Netflix Clone (Typescript, React, Redux)
 - [Munitter](https://github.com/martinmunillas/Munitter) - My Twitter Clone (Elixir, Phoenix)
 - [MuniflixIOS](https://github.com/martinmunillas/MuniflixIOS) - IOS version of [Muniflix](https://github.com/martinmunillas/Muniflix) (Swift, SwiftUI)
-<a href="https://github.com/quaantum/Quaantum-Components" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quaantum&repo=quaantum-components&theme=dark" alt="quaantum components" />
+
+
+<a href="https://github.com/martinmunillas/advent-of-code" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinmunillas&repo=advent-of-code&theme=dark" alt="advent of code" />
 </a>
