@@ -13,7 +13,6 @@ I'm Martin Munilla, a fullstack software engineer from chile!
 ### MUNI projects <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 Clones and existing technologies implemented by me to learn and practice "new" technologies.
 
-- [Munichain](https://github.com/martinmunillas/munichain) - My own Blockchain (Golang)
 - [MuniCoin](https://github.com/martinmunillas/Municoin) - My own Cryptocurrency with its own exchange (Solidity, Typescript, React)
 - [MuniOS](https://github.com/martinmunillas/MuniOS) - My own OS (C++, Assembly)
 - [Munigram](https://github.com/martinmunillas/Munigram) - My Instagram Clone (Python, Django)
