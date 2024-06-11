@@ -10,7 +10,7 @@ I'm Martin Munilla, a fullstack software engineer from chile!
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### MUNI projects <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
+### MUNI projects <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/chileparrot.gif" width="30" height="40"/>
 Clones and existing technologies implemented by me to learn and practice "new" technologies.
 
 - [MuniCoin](https://github.com/martinmunillas/Municoin) - My own Cryptocurrency with its own exchange (Solidity, Typescript, React)
