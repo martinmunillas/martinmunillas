@@ -10,6 +10,7 @@ I'm Martin Munilla, a fullstack software engineer from chile!
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+<br/>
 <a href="https://github.com/martinmunillas/advent-of-code" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinmunillas&repo=advent-of-code&theme=dark" alt="advent of code" />
 </a>
