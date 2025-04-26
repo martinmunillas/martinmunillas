@@ -12,6 +12,10 @@ I'm Martin Munilla, a fullstack software engineer from chile!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinmunillas&repo=otter&theme=dark" alt="otter" />
 </a>
 
+<a href="https://github.com/martinmunillas/svelte-intl" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinmunillas&repo=svelte-intl&theme=dark" alt="svelte intl" />
+</a>
+
 ## Connect with me <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/chileparrot.gif" width="30" height="40"/>
 <a href="https://www.linkedin.com/in/martinmunilla/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
